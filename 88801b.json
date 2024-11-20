@@ -19,12 +19,6 @@
         "data": "",
         "type": ""
     },
-    "routing-table": [
-        888012,
-        88801,
-        888013,                       
-        888011
-   ],
     "cursor": false,
     "connection": {
         "address": "",
